@@ -1,3 +1,10 @@
+ -- ================================================
+-- DataViz Explorer Library Database
+-- Created by: Noreen Lewis | DataViz Explorer®
+-- Table: loan
+-- Description: Links members to books (many-to-many)
+-- ================================================
+
 CREATE TABLE dataviz_library.loan (
     id           SERIAL,
     member_id    INTEGER REFERENCES dataviz_library.member(id)
