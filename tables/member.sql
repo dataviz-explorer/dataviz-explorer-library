@@ -1,3 +1,10 @@
+ -- ================================================
+-- DataViz Explorer Library Database
+-- Created by: Noreen Lewis | DataViz Explorer®
+-- Table: member
+-- Description: Stores library member details
+-- ================================================
+
 CREATE TABLE dataviz_library.member (
     id          SERIAL,
     first_name  VARCHAR(128),
