@@ -1,6 +1,7 @@
 dataviz-explorer-library
+
 A PostgreSQL relational database for a Library Management System
-📚 DataViz Explorer Library Database
+DataViz Explorer Library Database
 
 Project Overview
 A relational database management system for a library built using PostgreSQL.
