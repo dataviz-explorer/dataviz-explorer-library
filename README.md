@@ -3,7 +3,7 @@ DataViz Explorer Library Database
 Project Overview:
 
 A relational database management system for a library built using PostgreSQL.
-Designed and documented by Noreen Lewis @ DataViz Explorer®
+Designed and documented by Noreen Lewis | DataViz Explorer®
 
 Technologies Used:
 
@@ -14,7 +14,6 @@ Technologies Used:
 - Entity Relationship Diagram (ERD)
 
 Database Schema:
-
 - Schema Name: dataviz_library
 - Total Tables: 6
 
@@ -55,8 +54,7 @@ dataviz-explorer-library/
 │   ├── query2_active_loans.sql
 │   ├── query3_unpaid_fines.sql
 │   └── query4_total_fines.sql
-├── docs/
-│   └── dataviz_library_portfolio.pdf
+├── dataviz_library_portfolio.pdf
 ├── LICENSE
 └── README.md
 
@@ -79,10 +77,9 @@ Sample Queries
 - All unpaid fines with member details
 - Total fines per member
 
-Portfolio Documentation:
+Portfolio Documentation
+See [dataviz_library_portfolio.pdf](dataviz_library_portfolio.pdf) for full documentation.
 
-See `dataviz_library_portfolio.pdf` for full documentation.
-
-Connect
-- LinkedIn: https://linkedin.com/in/noreen-lewis-dve1
-- Website: https://datavizexplorer.org/dir`
+## Connect
+- 🔗 LinkedIn: [Noreen Lewis](https://linkedin.com/in/noreen-lewis-dve1)
+- 🌐 Website: [DataViz Explorer](https://datavizexplorer.org)
