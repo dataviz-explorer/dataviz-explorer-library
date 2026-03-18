@@ -1,0 +1,7488 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 21
+/Kids [ 4 0 R 12 0 R 15 0 R 18 0 R 21 0 R 24 0 R 27 0 R 30 0 R 33 0 R 36 0 R 39 0 R 46 0 R 49 0 R 52 0 R 55 0 R 58 0 R 61 0 R 64 0 R 67 0 R 70 0 R 73 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1564
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 483 cm
+q
+.105882 .262745 .196078 rg
+n 0 249 468 -249 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 162 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 26 Tf 32 TL 15.593 0 Td (DataViz Explorer Library Database) Tj T* -15.593 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 134 cm
+q
+.584314 .835294 .698039 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 163.974 0 Td (Portfolio Documentation) Tj T* -163.974 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 106 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 144.355 0 Td (A Relational Database Design Project) Tj T* -144.355 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 124.925 0 Td (Created by: Noreen Lewis | DataViz Explorer\256) Tj T* -124.925 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 55 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 201.6 0 Td (March 2026) Tj T* -201.6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 467 cm
+Q
+q
+1 0 0 1 75.6 445 cm
+q
+.584314 .835294 .698039 rg
+n 0 22 460.8 -22 re f*
+.105882 .262745 .196078 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 27.13175 8.5 Tm (PostgreSQL 16) Tj T* ET
+BT 1 0 0 1 141.1502 8.5 Tm (Schema Design) Tj T* ET
+BT 1 0 0 1 262.2535 8.5 Tm (SQL Queries) Tj T* ET
+BT 1 0 0 1 378.8773 8.5 Tm (ERD Design) Tj T* ET
+q
+1 J
+1 j
+1 1 1 RG
+.5 w
+n 0 22 m 460.8 22 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 22 l S
+n 460.8 0 m 460.8 22 l S
+n 115.2 0 m 115.2 22 l S
+n 230.4 0 m 230.4 22 l S
+n 345.6 0 m 345.6 22 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 1 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 5600
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 724 cm
+Q
+q
+1 0 0 1 72 686 cm
+q
+.176471 .415686 .309804 rg
+n 0 38 468 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 7 Tm /F2 15 Tf 22 TL (1. Project Overview) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 680 cm
+Q
+q
+1 0 0 1 60 674 cm
+Q
+q
+1 0 0 1 60 632 cm
+q
+BT 1 0 0 1 0 32.5 Tm -0.106594 Tw 14 TL /F1 9.5 Tf .176471 .176471 .176471 rg (This portfolio documents the design, creation and querying of a relational database for a Library Management System) Tj T* 0 Tw (called ) Tj /F2 9.5 Tf (dataviz_library) Tj /F1 9.5 Tf (. Built using PostgreSQL, it demonstrates core database design principles including schema) Tj T* (design, normalization, foreign keys, constraints and SQL querying.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 621 cm
+Q
+q
+1 0 0 1 60 603 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Technologies Used:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 468 cm
+q
+.105882 .262745 .196078 rg
+n 0 132 468 -22 re f*
+1 1 1 rg
+n 0 110 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 88 468 -22 re f*
+1 1 1 rg
+n 0 66 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 44 468 -22 re f*
+1 1 1 rg
+n 0 22 468 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 118.5 Tm (Technology) Tj T* ET
+BT 1 0 0 1 135.6 118.5 Tm (Purpose) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 96.5 Tm (PostgreSQL 16) Tj T* ET
+BT 1 0 0 1 135.6 96.5 Tm (Relational database management system) Tj T* ET
+BT 1 0 0 1 6 74.5 Tm (psql) Tj T* ET
+BT 1 0 0 1 135.6 74.5 Tm (Command line interface for PostgreSQL) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (SQL \(DDL/DML/DQL\)) Tj T* ET
+BT 1 0 0 1 135.6 52.5 Tm (Data definition, manipulation and querying) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (Schema Design) Tj T* ET
+BT 1 0 0 1 135.6 30.5 Tm (Named schema dataviz_library for organisation) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (ERD) Tj T* ET
+BT 1 0 0 1 135.6 8.5 Tm (Entity Relationship Diagram to map table relationships) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 132 m 468 132 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 132 l S
+n 468 0 m 468 132 l S
+n 0 110 m 468 110 l S
+n 0 88 m 468 88 l S
+n 0 66 m 468 66 l S
+n 0 44 m 468 44 l S
+n 0 22 m 468 22 l S
+n 129.6 0 m 129.6 132 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 458 cm
+Q
+q
+1 0 0 1 60 440 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Tables:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 283 cm
+q
+.105882 .262745 .196078 rg
+n 0 154 468 -22 re f*
+1 1 1 rg
+n 0 132 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 110 468 -22 re f*
+1 1 1 rg
+n 0 88 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 66 468 -22 re f*
+1 1 1 rg
+n 0 44 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 22 468 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 140.5 Tm (Table) Tj T* ET
+BT 1 0 0 1 114 140.5 Tm (Description) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 118.5 Tm (author) Tj T* ET
+BT 1 0 0 1 114 118.5 Tm (Stores author details) Tj T* ET
+BT 1 0 0 1 6 96.5 Tm (book) Tj T* ET
+BT 1 0 0 1 114 96.5 Tm (Stores book details linked to author) Tj T* ET
+BT 1 0 0 1 6 74.5 Tm (branch) Tj T* ET
+BT 1 0 0 1 114 74.5 Tm (Stores library branch locations) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (member) Tj T* ET
+BT 1 0 0 1 114 52.5 Tm (Stores library member details) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (loan) Tj T* ET
+BT 1 0 0 1 114 30.5 Tm (Links members to books \(many-to-many\)) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (fine) Tj T* ET
+BT 1 0 0 1 114 8.5 Tm (Stores fines linked to loans) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 154 m 468 154 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 154 l S
+n 468 0 m 468 154 l S
+n 0 132 m 468 132 l S
+n 0 110 m 468 110 l S
+n 0 88 m 468 88 l S
+n 0 66 m 468 66 l S
+n 0 44 m 468 44 l S
+n 0 22 m 468 22 l S
+n 108 0 m 108 154 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 273 cm
+Q
+q
+1 0 0 1 60 255 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Relationships:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 142 cm
+q
+.105882 .262745 .196078 rg
+n 0 110 468 -22 re f*
+1 1 1 rg
+n 0 88 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 66 468 -22 re f*
+1 1 1 rg
+n 0 44 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 22 468 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 96.5 Tm (Table) Tj T* ET
+BT 1 0 0 1 150 96.5 Tm (Relationship) Tj T* ET
+BT 1 0 0 1 330 96.5 Tm (Table) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 74.5 Tm (author) Tj T* ET
+BT 1 0 0 1 150 74.5 Tm (One-to-Many) Tj T* ET
+BT 1 0 0 1 330 74.5 Tm (book) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (book) Tj T* ET
+BT 1 0 0 1 150 52.5 Tm (Many-to-Many) Tj T* ET
+BT 1 0 0 1 330 52.5 Tm (member) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (member) Tj T* ET
+BT 1 0 0 1 150 30.5 Tm (Many-to-One) Tj T* ET
+BT 1 0 0 1 330 30.5 Tm (branch) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (loan) Tj T* ET
+BT 1 0 0 1 150 8.5 Tm (One-to-Many) Tj T* ET
+BT 1 0 0 1 330 8.5 Tm (fine) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 110 m 468 110 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 110 l S
+n 468 0 m 468 110 l S
+n 0 88 m 468 88 l S
+n 0 66 m 468 66 l S
+n 0 44 m 468 44 l S
+n 0 22 m 468 22 l S
+n 144 0 m 144 110 l S
+n 324 0 m 324 110 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 132 cm
+Q
+q
+1 0 0 1 60 114 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Connect:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 98 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 16 3.5 Tm /F1 9.5 Tf 13 TL (LinkedIn: https://linkedin.com/in/noreen-lewis-dve1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 82 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 16 3.5 Tm /F1 9.5 Tf 13 TL (Website: https://datavizexplorer.org) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 69 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 2 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 4207
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 720 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Folder Structure:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 325 cm
+q
+.05098 .066667 .090196 rg
+n 0 392 468 -392 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 16 369 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (dataviz-explorer-library/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 350 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (|-- schema/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 331 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| +-- create_schema.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 312 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (|-- tables/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 293 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| |-- author.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 274 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| |-- book.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 255 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| |-- branch.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 236 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| |-- member.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 217 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| |-- loan.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 198 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| +-- fine.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 179 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (|-- data/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 160 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| +-- sample_data.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 141 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (|-- queries/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 122 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| |-- query1_books_authors.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 103 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| |-- query2_active_loans.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 84 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| |-- query3_unpaid_fines.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 65 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (| +-- query4_total_fines.sql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 46 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (|-- dataviz_library_portfolio.pdf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 27 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (|-- LICENSE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 8 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 442 15 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 6 Tm /F3 9 Tf 15 TL (+-- README.md) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 0 392 m 468 392 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 392 l S
+n 468 0 m 468 392 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 315 cm
+Q
+q
+1 0 0 1 60 313.5 cm
+q
+.5 w
+1 J
+.584314 .835294 .698039 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 308.5 cm
+Q
+q
+1 0 0 1 60 296.5 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 4.5 Tm /F4 7.5 Tf 12 TL 127.9762 0 Td (DataViz Explorer\256 | Noreen Lewis | PostgreSQL Portfolio | March 2026) Tj T* -127.9762 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 3 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 9264
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 724 cm
+Q
+q
+1 0 0 1 72 686 cm
+q
+.176471 .415686 .309804 rg
+n 0 38 468 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 7 Tm /F2 15 Tf 22 TL (2. Schema Design) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 680 cm
+Q
+q
+1 0 0 1 60 652 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf .176471 .176471 .176471 rg (The database uses a dedicated schema called ) Tj /F2 9.5 Tf (dataviz_library) Tj /F1 9.5 Tf ( to organise all tables under one namespace. This) Tj T* (follows professional database design standards and keeps the library data isolated from other database objects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 641 cm
+Q
+q
+1 0 0 1 60 623 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Schema Creation:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 608 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 4 Tm /F3 8 Tf 12 TL (CREATE SCHEMA dataviz_library; SET search_path TO dataviz_library;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 592 cm
+Q
+q
+1 0 0 1 60 574 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Entity Relationship Diagram \(ERD\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.2 444 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 36 cm
+q
+.105882 .262745 .196078 rg
+n 0 91 93.6 -19 re f*
+.847059 .952941 .862745 rg
+n 0 72 93.6 -72 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 75 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4.5 Tm /F2 8.5 Tf 13 TL (author) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 57 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (id \(PK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (first_name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (last_name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (nationality) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+.5 w
+n 0 91 m 93.6 91 l S
+n 0 0 m 93.6 0 l S
+n 0 0 m 0 91 l S
+n 93.6 0 m 93.6 91 l S
+n 0 72 m 93.6 72 l S
+n 0 54 m 93.6 54 l S
+n 0 36 m 93.6 36 l S
+n 0 18 m 93.6 18 l S
+Q
+Q
+Q
+q
+1 0 0 1 93.6 115 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 6.0075 0 Td (1) Tj /F5 9 Tf 12 TL (\256) Tj /F2 9 Tf 12 TL (N) Tj T* -6.0075 0 Td ET
+Q
+Q
+q
+1 0 0 1 126 18 cm
+q
+.105882 .262745 .196078 rg
+n 0 109 93.6 -19 re f*
+.847059 .952941 .862745 rg
+n 0 90 93.6 -90 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4.5 Tm /F2 8.5 Tf 13 TL (book) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 75 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (id \(PK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 57 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (title) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (genre) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (published_year) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (author_id \(FK\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+.5 w
+n 0 109 m 93.6 109 l S
+n 0 0 m 93.6 0 l S
+n 0 0 m 0 109 l S
+n 93.6 0 m 93.6 109 l S
+n 0 90 m 93.6 90 l S
+n 0 72 m 93.6 72 l S
+n 0 54 m 93.6 54 l S
+n 0 36 m 93.6 36 l S
+n 0 18 m 93.6 18 l S
+Q
+Q
+Q
+q
+1 0 0 1 219.6 127 cm
+Q
+q
+1 0 0 1 252 0 cm
+q
+.105882 .262745 .196078 rg
+n 0 127 93.6 -19 re f*
+.847059 .952941 .862745 rg
+n 0 108 93.6 -108 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 111 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4.5 Tm /F2 8.5 Tf 13 TL (loan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 93 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (id \(PK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 75 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (member_id \(FK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 57 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (book_id \(FK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (loan_date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (return_date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (status) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+.5 w
+n 0 127 m 93.6 127 l S
+n 0 0 m 93.6 0 l S
+n 0 0 m 0 127 l S
+n 93.6 0 m 93.6 127 l S
+n 0 108 m 93.6 108 l S
+n 0 90 m 93.6 90 l S
+n 0 72 m 93.6 72 l S
+n 0 54 m 93.6 54 l S
+n 0 36 m 93.6 36 l S
+n 0 18 m 93.6 18 l S
+Q
+Q
+Q
+q
+1 0 0 1 345.6 115 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 6.0075 0 Td (N) Tj /F5 9 Tf 12 TL (\254) Tj /F2 9 Tf 12 TL (1) Tj T* -6.0075 0 Td ET
+Q
+Q
+q
+1 0 0 1 378 0 cm
+q
+.105882 .262745 .196078 rg
+n 0 127 93.6 -19 re f*
+.847059 .952941 .862745 rg
+n 0 108 93.6 -108 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 111 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4.5 Tm /F2 8.5 Tf 13 TL (member) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 93 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (id \(PK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 75 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (first_name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 57 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (last_name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (email) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (join_date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (branch_id \(FK\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+.5 w
+n 0 127 m 93.6 127 l S
+n 0 0 m 93.6 0 l S
+n 0 0 m 0 127 l S
+n 93.6 0 m 93.6 127 l S
+n 0 108 m 93.6 108 l S
+n 0 90 m 93.6 90 l S
+n 0 72 m 93.6 72 l S
+n 0 54 m 93.6 54 l S
+n 0 36 m 93.6 36 l S
+n 0 18 m 93.6 18 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 438 cm
+Q
+q
+1 0 0 1 70.2 347 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+.105882 .262745 .196078 rg
+n 0 91 93.6 -19 re f*
+.847059 .952941 .862745 rg
+n 0 72 93.6 -72 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 75 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4.5 Tm /F2 8.5 Tf 13 TL (fine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 57 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (id \(PK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (loan_id \(FK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (amount) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (paid) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+.5 w
+n 0 91 m 93.6 91 l S
+n 0 0 m 93.6 0 l S
+n 0 0 m 0 91 l S
+n 93.6 0 m 93.6 91 l S
+n 0 72 m 93.6 72 l S
+n 0 54 m 93.6 54 l S
+n 0 36 m 93.6 36 l S
+n 0 18 m 93.6 18 l S
+Q
+Q
+Q
+q
+1 0 0 1 93.6 40 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL 1.564 0 Td (N) Tj /F5 8 Tf 11 TL (\255) Tj /F2 8 Tf 11 TL ( loan) Tj T* -1.564 0 Td ET
+Q
+Q
+q
+1 0 0 1 126 45.5 cm
+Q
+q
+1 0 0 1 219.6 45.5 cm
+Q
+q
+1 0 0 1 252 45.5 cm
+Q
+q
+1 0 0 1 345.6 34.5 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 14 Tm /F2 8 Tf 11 TL .64 0 Td (member) Tj T* 10.924 0 Td /F5 8 Tf 11 TL (\257) Tj /F2 8 Tf 11 TL (1) Tj T* -11.564 0 Td ET
+Q
+Q
+q
+1 0 0 1 378 9 cm
+q
+.105882 .262745 .196078 rg
+n 0 73 93.6 -19 re f*
+.847059 .952941 .862745 rg
+n 0 54 93.6 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 57 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4.5 Tm /F2 8.5 Tf 13 TL (branch) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (id \(PK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (location) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+.5 w
+n 0 73 m 93.6 73 l S
+n 0 0 m 93.6 0 l S
+n 0 0 m 0 73 l S
+n 93.6 0 m 93.6 73 l S
+n 0 54 m 93.6 54 l S
+n 0 36 m 93.6 36 l S
+n 0 18 m 93.6 18 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 339 cm
+Q
+q
+1 0 0 1 75.6 317 cm
+q
+.847059 .952941 .862745 rg
+n 0 22 460.8 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (PK = Primary Key) Tj T* ET
+Q
+Q
+q
+1 0 0 1 121.2 5 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 4 Tm /F4 8 Tf 12 TL (FK = Foreign Key) Tj T* ET
+Q
+Q
+q
+1 0 0 1 236.4 5 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (1) Tj /F5 8 Tf 12 TL (\256) Tj /F1 8 Tf 12 TL (N = One-to-Many) Tj T* ET
+Q
+Q
+q
+1 0 0 1 351.6 5 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (N) Tj /F5 8 Tf 12 TL (\254) Tj /F1 8 Tf 12 TL (1 = Many-to-One) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 22 m 460.8 22 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 22 l S
+n 460.8 0 m 460.8 22 l S
+n 115.2 0 m 115.2 22 l S
+n 230.4 0 m 230.4 22 l S
+n 345.6 0 m 345.6 22 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 307 cm
+Q
+q
+1 0 0 1 60 305.5 cm
+q
+.5 w
+1 J
+.584314 .835294 .698039 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 300.5 cm
+Q
+q
+1 0 0 1 60 288.5 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 4.5 Tm /F4 7.5 Tf 12 TL 127.9762 0 Td (DataViz Explorer\256 | Noreen Lewis | PostgreSQL Portfolio | March 2026) Tj T* -127.9762 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 4 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 5957
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 724 cm
+Q
+q
+1 0 0 1 72 686 cm
+q
+.176471 .415686 .309804 rg
+n 0 38 468 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 7 Tm /F2 15 Tf 22 TL (3. Table Definitions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 680 cm
+Q
+q
+1 0 0 1 60 660 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (2.1 Author Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 642 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Stores information about book authors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 613 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 24 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 16 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.author \( id SERIAL, first_name VARCHAR\(128\), last_name VARCHAR\(128\),) Tj T* (nationality VARCHAR\(128\), PRIMARY KEY\(id\) \);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.4 497 cm
+q
+.105882 .262745 .196078 rg
+n 0 110 475.2 -22 re f*
+1 1 1 rg
+n 0 88 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 66 475.2 -22 re f*
+1 1 1 rg
+n 0 44 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 22 475.2 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 96.5 Tm (Column) Tj T* ET
+BT 1 0 0 1 135.6 96.5 Tm (Type) Tj T* ET
+BT 1 0 0 1 265.2 96.5 Tm (Constraint) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 74.5 Tm (id) Tj T* ET
+BT 1 0 0 1 135.6 74.5 Tm (SERIAL) Tj T* ET
+BT 1 0 0 1 265.2 74.5 Tm (PRIMARY KEY) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (first_name) Tj T* ET
+BT 1 0 0 1 135.6 52.5 Tm (VARCHAR\(128\)) Tj T* ET
+BT 1 0 0 1 265.2 52.5 Tm  T* ET
+BT 1 0 0 1 6 30.5 Tm (last_name) Tj T* ET
+BT 1 0 0 1 135.6 30.5 Tm (VARCHAR\(128\)) Tj T* ET
+BT 1 0 0 1 265.2 30.5 Tm  T* ET
+BT 1 0 0 1 6 8.5 Tm (nationality) Tj T* ET
+BT 1 0 0 1 135.6 8.5 Tm (VARCHAR\(128\)) Tj T* ET
+BT 1 0 0 1 265.2 8.5 Tm  T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 110 m 475.2 110 l S
+n 0 0 m 475.2 0 l S
+n 0 0 m 0 110 l S
+n 475.2 0 m 475.2 110 l S
+n 0 88 m 475.2 88 l S
+n 0 66 m 475.2 66 l S
+n 0 44 m 475.2 44 l S
+n 0 22 m 475.2 22 l S
+n 129.6 0 m 129.6 110 l S
+n 259.2 0 m 259.2 110 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 487 cm
+Q
+q
+1 0 0 1 60 467 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (2.2 Book Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 449 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Stores book details linked to author via foreign key.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 408 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 36 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 28 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.book \( id SERIAL, title VARCHAR\(256\) UNIQUE, genre VARCHAR\(128\),) Tj T* (published_year INTEGER, author_id INTEGER REFERENCES dataviz_library.author\(id\) ON DELETE CASCADE,) Tj T* (PRIMARY KEY\(id\) \);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.4 270 cm
+q
+.105882 .262745 .196078 rg
+n 0 132 475.2 -22 re f*
+1 1 1 rg
+n 0 110 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 88 475.2 -22 re f*
+1 1 1 rg
+n 0 66 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 44 475.2 -22 re f*
+1 1 1 rg
+n 0 22 475.2 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 118.5 Tm (Column) Tj T* ET
+BT 1 0 0 1 135.6 118.5 Tm (Type) Tj T* ET
+BT 1 0 0 1 265.2 118.5 Tm (Constraint) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 96.5 Tm (id) Tj T* ET
+BT 1 0 0 1 135.6 96.5 Tm (SERIAL) Tj T* ET
+BT 1 0 0 1 265.2 96.5 Tm (PRIMARY KEY) Tj T* ET
+BT 1 0 0 1 6 74.5 Tm (title) Tj T* ET
+BT 1 0 0 1 135.6 74.5 Tm (VARCHAR\(256\)) Tj T* ET
+BT 1 0 0 1 265.2 74.5 Tm (UNIQUE) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (genre) Tj T* ET
+BT 1 0 0 1 135.6 52.5 Tm (VARCHAR\(128\)) Tj T* ET
+BT 1 0 0 1 265.2 52.5 Tm  T* ET
+BT 1 0 0 1 6 30.5 Tm (published_year) Tj T* ET
+BT 1 0 0 1 135.6 30.5 Tm (INTEGER) Tj T* ET
+BT 1 0 0 1 265.2 30.5 Tm  T* ET
+BT 1 0 0 1 6 8.5 Tm (author_id) Tj T* ET
+BT 1 0 0 1 135.6 8.5 Tm (INTEGER) Tj T* ET
+BT 1 0 0 1 265.2 8.5 Tm (FOREIGN KEY ) Tj /F5 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( author\(id\)) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 132 m 475.2 132 l S
+n 0 0 m 475.2 0 l S
+n 0 0 m 0 132 l S
+n 475.2 0 m 475.2 132 l S
+n 0 110 m 475.2 110 l S
+n 0 88 m 475.2 88 l S
+n 0 66 m 475.2 66 l S
+n 0 44 m 475.2 44 l S
+n 0 22 m 475.2 22 l S
+n 129.6 0 m 129.6 132 l S
+n 259.2 0 m 259.2 132 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 260 cm
+Q
+q
+1 0 0 1 60 240 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (2.3 Branch Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 222 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Stores library branch locations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 193 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 24 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 16 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.branch \( id SERIAL, name VARCHAR\(128\) UNIQUE, location VARCHAR\(256\),) Tj T* (PRIMARY KEY\(id\) \);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.4 99 cm
+q
+.105882 .262745 .196078 rg
+n 0 88 475.2 -22 re f*
+1 1 1 rg
+n 0 66 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 44 475.2 -22 re f*
+1 1 1 rg
+n 0 22 475.2 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 74.5 Tm (Column) Tj T* ET
+BT 1 0 0 1 135.6 74.5 Tm (Type) Tj T* ET
+BT 1 0 0 1 265.2 74.5 Tm (Constraint) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 52.5 Tm (id) Tj T* ET
+BT 1 0 0 1 135.6 52.5 Tm (SERIAL) Tj T* ET
+BT 1 0 0 1 265.2 52.5 Tm (PRIMARY KEY) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (name) Tj T* ET
+BT 1 0 0 1 135.6 30.5 Tm (VARCHAR\(128\)) Tj T* ET
+BT 1 0 0 1 265.2 30.5 Tm (UNIQUE) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (location) Tj T* ET
+BT 1 0 0 1 135.6 8.5 Tm (VARCHAR\(256\)) Tj T* ET
+BT 1 0 0 1 265.2 8.5 Tm  T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 88 m 475.2 88 l S
+n 0 0 m 475.2 0 l S
+n 0 0 m 0 88 l S
+n 475.2 0 m 475.2 88 l S
+n 0 66 m 475.2 66 l S
+n 0 44 m 475.2 44 l S
+n 0 22 m 475.2 22 l S
+n 129.6 0 m 129.6 88 l S
+n 259.2 0 m 259.2 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 89 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 5 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 26 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 5124
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 720 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (2.4 Member Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 702 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Stores library member details linked to a branch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 661 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 36 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 28 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.member \( id SERIAL, first_name VARCHAR\(128\), last_name VARCHAR\(128\),) Tj T* (email VARCHAR\(256\) UNIQUE, join_date DATE, branch_id INTEGER REFERENCES dataviz_library.branch\(id\)) Tj T* (ON DELETE SET NULL, PRIMARY KEY\(id\) \);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.4 501 cm
+q
+.105882 .262745 .196078 rg
+n 0 154 475.2 -22 re f*
+1 1 1 rg
+n 0 132 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 110 475.2 -22 re f*
+1 1 1 rg
+n 0 88 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 66 475.2 -22 re f*
+1 1 1 rg
+n 0 44 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 22 475.2 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 140.5 Tm (Column) Tj T* ET
+BT 1 0 0 1 135.6 140.5 Tm (Type) Tj T* ET
+BT 1 0 0 1 265.2 140.5 Tm (Constraint) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 118.5 Tm (id) Tj T* ET
+BT 1 0 0 1 135.6 118.5 Tm (SERIAL) Tj T* ET
+BT 1 0 0 1 265.2 118.5 Tm (PRIMARY KEY) Tj T* ET
+BT 1 0 0 1 6 96.5 Tm (first_name) Tj T* ET
+BT 1 0 0 1 135.6 96.5 Tm (VARCHAR\(128\)) Tj T* ET
+BT 1 0 0 1 265.2 96.5 Tm  T* ET
+BT 1 0 0 1 6 74.5 Tm (last_name) Tj T* ET
+BT 1 0 0 1 135.6 74.5 Tm (VARCHAR\(128\)) Tj T* ET
+BT 1 0 0 1 265.2 74.5 Tm  T* ET
+BT 1 0 0 1 6 52.5 Tm (email) Tj T* ET
+BT 1 0 0 1 135.6 52.5 Tm (VARCHAR\(256\)) Tj T* ET
+BT 1 0 0 1 265.2 52.5 Tm (UNIQUE) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (join_date) Tj T* ET
+BT 1 0 0 1 135.6 30.5 Tm (DATE) Tj T* ET
+BT 1 0 0 1 265.2 30.5 Tm  T* ET
+BT 1 0 0 1 6 8.5 Tm (branch_id) Tj T* ET
+BT 1 0 0 1 135.6 8.5 Tm (INTEGER) Tj T* ET
+BT 1 0 0 1 265.2 8.5 Tm (FOREIGN KEY ) Tj /F5 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( branch\(id\)) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 154 m 475.2 154 l S
+n 0 0 m 475.2 0 l S
+n 0 0 m 0 154 l S
+n 475.2 0 m 475.2 154 l S
+n 0 132 m 475.2 132 l S
+n 0 110 m 475.2 110 l S
+n 0 88 m 475.2 88 l S
+n 0 66 m 475.2 66 l S
+n 0 44 m 475.2 44 l S
+n 0 22 m 475.2 22 l S
+n 129.6 0 m 129.6 154 l S
+n 259.2 0 m 259.2 154 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 491 cm
+Q
+q
+1 0 0 1 60 471 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (2.5 Loan Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 453 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Junction table \227 many-to-many between member and book.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 400 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 48 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 40 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.loan \( id SERIAL, member_id INTEGER REFERENCES) Tj T* (dataviz_library.member\(id\) ON DELETE CASCADE, book_id INTEGER REFERENCES dataviz_library.book\(id\)) Tj T* (ON DELETE CASCADE, loan_date DATE, return_date DATE, status VARCHAR\(50\), UNIQUE\(member_id, book_id,) Tj T* (loan_date\), PRIMARY KEY\(id\) \);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.4 240 cm
+q
+.105882 .262745 .196078 rg
+n 0 154 475.2 -22 re f*
+1 1 1 rg
+n 0 132 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 110 475.2 -22 re f*
+1 1 1 rg
+n 0 88 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 66 475.2 -22 re f*
+1 1 1 rg
+n 0 44 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 22 475.2 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 140.5 Tm (Column) Tj T* ET
+BT 1 0 0 1 135.6 140.5 Tm (Type) Tj T* ET
+BT 1 0 0 1 265.2 140.5 Tm (Constraint) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 118.5 Tm (id) Tj T* ET
+BT 1 0 0 1 135.6 118.5 Tm (SERIAL) Tj T* ET
+BT 1 0 0 1 265.2 118.5 Tm (PRIMARY KEY) Tj T* ET
+BT 1 0 0 1 6 96.5 Tm (member_id) Tj T* ET
+BT 1 0 0 1 135.6 96.5 Tm (INTEGER) Tj T* ET
+BT 1 0 0 1 265.2 96.5 Tm (FOREIGN KEY ) Tj /F5 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( member\(id\)) Tj T* ET
+BT 1 0 0 1 6 74.5 Tm (book_id) Tj T* ET
+BT 1 0 0 1 135.6 74.5 Tm (INTEGER) Tj T* ET
+BT 1 0 0 1 265.2 74.5 Tm (FOREIGN KEY ) Tj /F5 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( book\(id\)) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (loan_date) Tj T* ET
+BT 1 0 0 1 135.6 52.5 Tm (DATE) Tj T* ET
+BT 1 0 0 1 265.2 52.5 Tm  T* ET
+BT 1 0 0 1 6 30.5 Tm (return_date) Tj T* ET
+BT 1 0 0 1 135.6 30.5 Tm (DATE) Tj T* ET
+BT 1 0 0 1 265.2 30.5 Tm (NULL if not returned) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (status) Tj T* ET
+BT 1 0 0 1 135.6 8.5 Tm (VARCHAR\(50\)) Tj T* ET
+BT 1 0 0 1 265.2 8.5 Tm (active / returned) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 154 m 475.2 154 l S
+n 0 0 m 475.2 0 l S
+n 0 0 m 0 154 l S
+n 475.2 0 m 475.2 154 l S
+n 0 132 m 475.2 132 l S
+n 0 110 m 475.2 110 l S
+n 0 88 m 475.2 88 l S
+n 0 66 m 475.2 66 l S
+n 0 44 m 475.2 44 l S
+n 0 22 m 475.2 22 l S
+n 129.6 0 m 129.6 154 l S
+n 259.2 0 m 259.2 154 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 230 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 6 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 29 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 2453
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 720 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (2.6 Fine Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 702 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Stores fines associated with loans.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 673 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 24 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 16 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.fine \( id SERIAL, loan_id INTEGER REFERENCES dataviz_library.loan\(id\)) Tj T* (ON DELETE CASCADE, amount NUMERIC\(10, 2\), paid BOOLEAN DEFAULT FALSE, PRIMARY KEY\(id\) \);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.4 557 cm
+q
+.105882 .262745 .196078 rg
+n 0 110 475.2 -22 re f*
+1 1 1 rg
+n 0 88 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 66 475.2 -22 re f*
+1 1 1 rg
+n 0 44 475.2 -22 re f*
+.847059 .952941 .862745 rg
+n 0 22 475.2 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 96.5 Tm (Column) Tj T* ET
+BT 1 0 0 1 135.6 96.5 Tm (Type) Tj T* ET
+BT 1 0 0 1 265.2 96.5 Tm (Constraint) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 74.5 Tm (id) Tj T* ET
+BT 1 0 0 1 135.6 74.5 Tm (SERIAL) Tj T* ET
+BT 1 0 0 1 265.2 74.5 Tm (PRIMARY KEY) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (loan_id) Tj T* ET
+BT 1 0 0 1 135.6 52.5 Tm (INTEGER) Tj T* ET
+BT 1 0 0 1 265.2 52.5 Tm (FOREIGN KEY ) Tj /F5 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( loan\(id\)) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (amount) Tj T* ET
+BT 1 0 0 1 135.6 30.5 Tm (NUMERIC\(10,2\)) Tj T* ET
+BT 1 0 0 1 265.2 30.5 Tm  T* ET
+BT 1 0 0 1 6 8.5 Tm (paid) Tj T* ET
+BT 1 0 0 1 135.6 8.5 Tm (BOOLEAN) Tj T* ET
+BT 1 0 0 1 265.2 8.5 Tm (DEFAULT FALSE) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 110 m 475.2 110 l S
+n 0 0 m 475.2 0 l S
+n 0 0 m 0 110 l S
+n 475.2 0 m 475.2 110 l S
+n 0 88 m 475.2 88 l S
+n 0 66 m 475.2 66 l S
+n 0 44 m 475.2 44 l S
+n 0 22 m 475.2 22 l S
+n 129.6 0 m 129.6 110 l S
+n 259.2 0 m 259.2 110 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 547 cm
+Q
+q
+1 0 0 1 60 537 cm
+Q
+q
+1 0 0 1 60 535.5 cm
+q
+.5 w
+1 J
+.584314 .835294 .698039 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 530.5 cm
+Q
+q
+1 0 0 1 60 518.5 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 4.5 Tm /F4 7.5 Tf 12 TL 127.9762 0 Td (DataViz Explorer\256 | Noreen Lewis | PostgreSQL Portfolio | March 2026) Tj T* -127.9762 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 7 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 32 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 5373
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 724 cm
+Q
+q
+1 0 0 1 72 686 cm
+q
+.176471 .415686 .309804 rg
+n 0 38 468 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+BT 1 0 0 1 0 7 Tm 22 TL /F2 15 Tf 1 1 1 rg (4. Sample SQL Queries & Results) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 680 cm
+Q
+q
+1 0 0 1 60 674 cm
+Q
+q
+1 0 0 1 60 654 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Query 1 \227 All Books with Their Authors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 636 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Demonstrates a JOIN between book and author tables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 607 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 24 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 16 Tm /F3 8 Tf 12 TL (SELECT book.title, author.first_name, author.last_name FROM dataviz_library.book JOIN) Tj T* (dataviz_library.author ON book.author_id = author.id;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 589 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Expected Output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 498 cm
+q
+.105882 .262745 .196078 rg
+n 0 88 468 -22 re f*
+1 1 1 rg
+n 0 66 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 44 468 -22 re f*
+1 1 1 rg
+n 0 22 468 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 74.5 Tm (title) Tj T* ET
+BT 1 0 0 1 162 74.5 Tm (first_name) Tj T* ET
+BT 1 0 0 1 318 74.5 Tm (last_name) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 52.5 Tm (One Hundred Years of Solitude) Tj T* ET
+BT 1 0 0 1 162 52.5 Tm (Gabriel) Tj T* ET
+BT 1 0 0 1 318 52.5 Tm (Garcia Marquez) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (Beloved) Tj T* ET
+BT 1 0 0 1 162 30.5 Tm (Toni) Tj T* ET
+BT 1 0 0 1 318 30.5 Tm (Morrison) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (Americanah) Tj T* ET
+BT 1 0 0 1 162 8.5 Tm (Chimamanda) Tj T* ET
+BT 1 0 0 1 318 8.5 Tm (Adichie) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 88 m 468 88 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 88 l S
+n 468 0 m 468 88 l S
+n 0 66 m 468 66 l S
+n 0 44 m 468 44 l S
+n 0 22 m 468 22 l S
+n 156 0 m 156 88 l S
+n 312 0 m 312 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 486 cm
+Q
+q
+1 0 0 1 60 466 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Query 2 \227 All Active Loans) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 448 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Demonstrates multi-table JOIN with WHERE filter.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 407 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 36 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 28 Tm /F3 8 Tf 12 TL (SELECT member.first_name, member.last_name, book.title, loan.loan_date FROM dataviz_library.loan) Tj T* (JOIN dataviz_library.member ON loan.member_id = member.id JOIN dataviz_library.book ON loan.book_id) Tj T* (= book.id WHERE loan.status = 'active';) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 389 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Expected Output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 320 cm
+q
+.105882 .262745 .196078 rg
+n 0 66 468 -22 re f*
+1 1 1 rg
+n 0 44 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 22 468 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 52.5 Tm (first_name) Tj T* ET
+BT 1 0 0 1 123 52.5 Tm (last_name) Tj T* ET
+BT 1 0 0 1 240 52.5 Tm (title) Tj T* ET
+BT 1 0 0 1 357 52.5 Tm (loan_date) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 30.5 Tm (Sarah) Tj T* ET
+BT 1 0 0 1 123 30.5 Tm (Brown) Tj T* ET
+BT 1 0 0 1 240 30.5 Tm (Beloved) Tj T* ET
+BT 1 0 0 1 357 30.5 Tm (2024-03-05) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (Marcus) Tj T* ET
+BT 1 0 0 1 123 8.5 Tm (Hall) Tj T* ET
+BT 1 0 0 1 240 8.5 Tm (Americanah) Tj T* ET
+BT 1 0 0 1 357 8.5 Tm (2024-03-08) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 66 m 468 66 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 66 l S
+n 468 0 m 468 66 l S
+n 0 44 m 468 44 l S
+n 0 22 m 468 22 l S
+n 117 0 m 117 66 l S
+n 234 0 m 234 66 l S
+n 351 0 m 351 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 308 cm
+Q
+q
+1 0 0 1 60 288 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Query 3 \227 All Unpaid Fines) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 270 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Demonstrates BOOLEAN filtering across joined tables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 229 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 36 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 28 Tm /F3 8 Tf 12 TL (SELECT member.first_name, member.last_name, fine.amount FROM dataviz_library.fine JOIN) Tj T* (dataviz_library.loan ON fine.loan_id = loan.id JOIN dataviz_library.member ON loan.member_id =) Tj T* (member.id WHERE fine.paid = FALSE;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 211 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Expected Output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 164 cm
+q
+.105882 .262745 .196078 rg
+n 0 44 468 -22 re f*
+1 1 1 rg
+n 0 22 468 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 30.5 Tm (first_name) Tj T* ET
+BT 1 0 0 1 162 30.5 Tm (last_name) Tj T* ET
+BT 1 0 0 1 318 30.5 Tm (amount) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 8.5 Tm (Sarah) Tj T* ET
+BT 1 0 0 1 162 8.5 Tm (Brown) Tj T* ET
+BT 1 0 0 1 318 8.5 Tm (5.00) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 44 m 468 44 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 44 l S
+n 468 0 m 468 44 l S
+n 0 22 m 468 22 l S
+n 156 0 m 156 44 l S
+n 312 0 m 312 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 152 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 8 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 2174
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 720 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Query 4 \227 Total Fines Per Member) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 702 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Demonstrates GROUP BY and SUM aggregation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 661 cm
+q
+.05098 .066667 .090196 rg
+n 8 0 476 36 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 8 28 Tm /F3 8 Tf 12 TL (SELECT member.first_name, member.last_name, SUM\(fine.amount\) AS total_fines FROM) Tj T* (dataviz_library.fine JOIN dataviz_library.loan ON fine.loan_id = loan.id JOIN) Tj T* (dataviz_library.member ON loan.member_id = member.id GROUP BY member.first_name, member.last_name;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 643 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Expected Output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 574 cm
+q
+.105882 .262745 .196078 rg
+n 0 66 468 -22 re f*
+1 1 1 rg
+n 0 44 468 -22 re f*
+.847059 .952941 .862745 rg
+n 0 22 468 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 52.5 Tm (first_name) Tj T* ET
+BT 1 0 0 1 162 52.5 Tm (last_name) Tj T* ET
+BT 1 0 0 1 318 52.5 Tm (total_fines) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 30.5 Tm (Sarah) Tj T* ET
+BT 1 0 0 1 162 30.5 Tm (Brown) Tj T* ET
+BT 1 0 0 1 318 30.5 Tm (5.00) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (Noreen) Tj T* ET
+BT 1 0 0 1 162 8.5 Tm (Lewis) Tj T* ET
+BT 1 0 0 1 318 8.5 Tm (2.50) Tj T* ET
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 66 m 468 66 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 66 l S
+n 468 0 m 468 66 l S
+n 0 44 m 468 44 l S
+n 0 22 m 468 22 l S
+n 156 0 m 156 66 l S
+n 312 0 m 312 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 562 cm
+Q
+q
+1 0 0 1 60 552 cm
+Q
+q
+1 0 0 1 60 550.5 cm
+q
+.5 w
+1 J
+.584314 .835294 .698039 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 545.5 cm
+Q
+q
+1 0 0 1 60 533.5 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 4.5 Tm /F4 7.5 Tf 12 TL 127.9762 0 Td (DataViz Explorer\256 | Noreen Lewis | PostgreSQL Portfolio | March 2026) Tj T* -127.9762 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 293.552 28.8 Tm
+(\227 9 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 38 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 4242
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 724 cm
+Q
+q
+1 0 0 1 72 686 cm
+q
+.176471 .415686 .309804 rg
+n 0 38 468 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 7 Tm /F2 15 Tf 22 TL (5. Key Database Concepts Demonstrated) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 680 cm
+Q
+q
+1 0 0 1 60 674 cm
+Q
+q
+1 0 0 1 72 416 cm
+q
+.105882 .262745 .196078 rg
+n 0 258 468 -22 re f*
+1 1 1 rg
+n 0 236 468 -36 re f*
+.847059 .952941 .862745 rg
+n 0 200 468 -36 re f*
+1 1 1 rg
+n 0 164 468 -23 re f*
+.847059 .952941 .862745 rg
+n 0 141 468 -23 re f*
+1 1 1 rg
+n 0 118 468 -36 re f*
+.847059 .952941 .862745 rg
+n 0 82 468 -23 re f*
+1 1 1 rg
+n 0 59 468 -23 re f*
+.847059 .952941 .862745 rg
+n 0 36 468 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 241 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Concept) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 241 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 219 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Normalization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 205 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 17.5 Tm /F1 8.5 Tf 13 TL (Data organised to reduce redundancy \227 each piece stored once and referenced via) Tj T* (foreign keys.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Primary Keys) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 169 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 17.5 Tm /F1 8.5 Tf 13 TL (Every table has a SERIAL primary key that uniquely identifies each row and) Tj T* (auto-increments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Foreign Keys) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 146 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 8.5 Tf 13 TL (Tables linked using REFERENCES constraints ensuring referential integrity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 124 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (ON DELETE CASCADE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 123 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 8.5 Tf 13 TL (When a parent record is deleted all related child records are automatically removed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 101 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (ON DELETE SET NULL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 87 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 17.5 Tm /F1 8.5 Tf 13 TL (When a branch is deleted the member branch_id is set to NULL instead of deleting the) Tj T* (member.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 65 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (UNIQUE Constraints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 64 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 8.5 Tf 13 TL (Columns like email and title use UNIQUE to prevent duplicate entries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Named Schema) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 41 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 8.5 Tf 13 TL (All tables created under dataviz_library schema for professional organisation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 19 cm
+q
+.105882 .262745 .196078 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Many-to-Many) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.4 5 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 17.5 Tm /F1 8.5 Tf 13 TL (The loan table acts as a junction table linking members to books with additional) Tj T* (attributes.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.584314 .835294 .698039 RG
+.5 w
+n 0 258 m 468 258 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 258 l S
+n 468 0 m 468 258 l S
+n 0 236 m 468 236 l S
+n 0 200 m 468 200 l S
+n 0 164 m 468 164 l S
+n 0 141 m 468 141 l S
+n 0 118 m 468 118 l S
+n 0 82 m 468 82 l S
+n 0 59 m 468 59 l S
+n 0 36 m 468 36 l S
+n 122.4 0 m 122.4 258 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 406 cm
+Q
+q
+1 0 0 1 60 404.5 cm
+q
+.5 w
+1 J
+.584314 .835294 .698039 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 399.5 cm
+Q
+q
+1 0 0 1 60 387.5 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 4.5 Tm /F4 7.5 Tf 12 TL 127.9762 0 Td (DataViz Explorer\256 | Noreen Lewis | PostgreSQL Portfolio | March 2026) Tj T* -127.9762 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 10 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 42 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 806
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 465 cm
+q
+.105882 .262745 .196078 rg
+n 0 267 468 -267 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 133 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 38 Tm /F2 26 Tf 32 TL 29.334 0 Td (Real-Time PostgreSQL Terminal) Tj T* 119.223 0 Td (Walkthrough) Tj T* -148.557 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 97 cm
+q
+.584314 .835294 .698039 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 147.63 0 Td (Step-by-step execution in psql) Tj T* -147.63 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 70 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 121.68 0 Td (Noreen Lewis | DataViz Explorer\256 | March 2026) Tj T* -121.68 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 11 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+43 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+44 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+45 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+46 0 obj
+<<
+/Contents 47 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 48 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+47 0 obj
+<<
+/Length 8849
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 550 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 182 l 4 182 l 1.7888 182 0 180.2112 0 178 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 182 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 150 468 -138 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 153 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 1) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Connect to PostgreSQL Database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 132 468 -132 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 118 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Connect from terminal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 102 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (22:35 ~ $) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 86 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (psql -h ****.***.**** -p **** -U [your_username] [your_database]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 70 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Password for user [your_username]: ********) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 54 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (psql \(16.6 \(Ubuntu 16.6-1.pgdg22.04+1\), server 11.7\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 38 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (SSL connection \(protocol: TLSv1.3, cipher: TLS_AES_256_GCM_SHA384\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 22 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Type "help" for help.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.345098 .65098 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (your_database=>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 180.8292 m 1.8944 181.5528 2.8944 182 4 182 c 468 182 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 178 l 0 179.1056 .4472 180.1056 1.1708 180.8292 c
+S
+n 468 0 m 468 182 l S
+Q
+Q
+q
+1 0 0 1 60 542 cm
+Q
+q
+1 0 0 1 60 514 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (The psql command connects to the remote PostgreSQL server. The -h flag specifies the host, -p the port and -U the) Tj T* (username. A successful connection shows the SSL protocol and version details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 495 cm
+Q
+q
+1 0 0 1 72 349 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 146 l 4 146 l 1.7888 146 0 144.2112 0 142 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 146 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 114 468 -102 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 117 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 2) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf 1 1 1 rg (Create Schema & Set Search Path) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 96 468 -96 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Create dedicated schema for the library database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.345098 .65098 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (your_database=>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE SCHEMA dataviz_library;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (SET search_path TO dataviz_library;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE SCHEMA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (SET) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 144.8292 m 1.8944 145.5528 2.8944 146 4 146 c 468 146 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 142 l 0 143.1056 .4472 144.1056 1.1708 144.8292 c
+S
+n 468 0 m 468 146 l S
+Q
+Q
+q
+1 0 0 1 60 341 cm
+Q
+q
+1 0 0 1 60 313 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (CREATE SCHEMA creates a named namespace. SET search_path tells PostgreSQL to look in dataviz_library first) Tj T* (when resolving table names, so we can write table names without the schema prefix.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 294 cm
+Q
+q
+1 0 0 1 72 116 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 178 l 4 178 l 1.7888 178 0 176.2112 0 174 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 178 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 146 468 -134 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 149 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 3) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Create Table: author) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 128 468 -128 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 114 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.author \() Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (id SERIAL,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (first_name VARCHAR\(128\),) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (last_name VARCHAR\(128\),) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (nationality VARCHAR\(128\),) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (PRIMARY KEY\(id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 176.8292 m 1.8944 177.5528 2.8944 178 4 178 c 468 178 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 174 l 0 175.1056 .4472 176.1056 1.1708 176.8292 c
+S
+n 468 0 m 468 178 l S
+Q
+Q
+q
+1 0 0 1 60 108 cm
+Q
+q
+1 0 0 1 60 94 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (SERIAL automatically generates sequential integers. PRIMARY KEY\(id\) uniquely identifies each author row.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 75 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 12 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+48 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+49 0 obj
+<<
+/Contents 50 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 51 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 3474
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 522 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 210 l 4 210 l 1.7888 210 0 208.2112 0 206 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 210 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 178 468 -166 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 181 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 4) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Create Table: book) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 160 468 -160 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 146 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.book \() Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 130 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (id SERIAL,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 114 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (title VARCHAR\(256\) UNIQUE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (genre VARCHAR\(128\),) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (published_year INTEGER,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (author_id INTEGER REFERENCES dataviz_library.author\(id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (ON DELETE CASCADE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (PRIMARY KEY\(id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 208.8292 m 1.8944 209.5528 2.8944 210 4 210 c 468 210 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 206 l 0 207.1056 .4472 208.1056 1.1708 208.8292 c
+S
+n 468 0 m 468 210 l S
+Q
+Q
+q
+1 0 0 1 60 514 cm
+Q
+q
+1 0 0 1 60 486 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (UNIQUE on title prevents duplicate book entries. REFERENCES creates a foreign key to author. ON DELETE) Tj T* (CASCADE automatically removes books if their author is deleted.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 13 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+51 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+52 0 obj
+<<
+/Contents 53 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 54 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+53 0 obj
+<<
+/Length 8604
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 470 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 262 l 4 262 l 1.7888 262 0 260.2112 0 258 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 262 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 230 468 -218 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 233 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 5) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf 1 1 1 rg (Create Tables: branch & member) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 212 468 -212 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 198 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Branch table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 182 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.branch \() Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 166 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (id SERIAL, name VARCHAR\(128\) UNIQUE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 150 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (location VARCHAR\(256\), PRIMARY KEY\(id\)\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 134 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 130 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 114 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Member table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.member \() Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (id SERIAL, first_name VARCHAR\(128\),) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (last_name VARCHAR\(128\), email VARCHAR\(256\) UNIQUE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (join_date DATE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (branch_id INTEGER REFERENCES dataviz_library.branch\(id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (ON DELETE SET NULL, PRIMARY KEY\(id\)\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 260.8292 m 1.8944 261.5528 2.8944 262 4 262 c 468 262 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 258 l 0 259.1056 .4472 260.1056 1.1708 260.8292 c
+S
+n 468 0 m 468 262 l S
+Q
+Q
+q
+1 0 0 1 60 462 cm
+Q
+q
+1 0 0 1 60 434 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (ON DELETE SET NULL on branch_id means if a branch is deleted the member record is kept but branch_id is set to) Tj T* (NULL \227 preserving member data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 415 cm
+Q
+q
+1 0 0 1 72 121 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 294 l 4 294 l 1.7888 294 0 292.2112 0 290 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 294 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 262 468 -250 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 265 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 6) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf 1 1 1 rg (Create Tables: loan & fine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 244 468 -244 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 230 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Loan table \(junction/bridge table\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 214 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.loan \() Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 198 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (id SERIAL,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 182 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (member_id INTEGER REFERENCES dataviz_library.member\(id\) ON DELETE CASCADE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 166 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (book_id INTEGER REFERENCES dataviz_library.book\(id\) ON DELETE CASCADE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 150 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (loan_date DATE, return_date DATE, status VARCHAR\(50\),) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 134 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (UNIQUE\(member_id, book_id, loan_date\), PRIMARY KEY\(id\)\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 118 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 114 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Fine table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE dataviz_library.fine \() Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (id SERIAL,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (loan_id INTEGER REFERENCES dataviz_library.loan\(id\) ON DELETE CASCADE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (amount NUMERIC\(10,2\), paid BOOLEAN DEFAULT FALSE,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.901961 .929412 .952941 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (PRIMARY KEY\(id\)\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (CREATE TABLE) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 292.8292 m 1.8944 293.5528 2.8944 294 4 294 c 468 294 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 290 l 0 291.1056 .4472 292.1056 1.1708 292.8292 c
+S
+n 468 0 m 468 294 l S
+Q
+Q
+q
+1 0 0 1 60 113 cm
+Q
+q
+1 0 0 1 60 85 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (UNIQUE\(member_id, book_id, loan_date\) prevents the same member borrowing the same book on the same date) Tj T* (twice. BOOLEAN DEFAULT FALSE means fines start as unpaid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 66 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 14 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+54 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+55 0 obj
+<<
+/Contents 56 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 57 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 4007
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 486 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 246 l 4 246 l 1.7888 246 0 244.2112 0 242 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 246 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 214 468 -202 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 217 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 7) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Verify Tables: \\dt dataviz_library.*) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 196 468 -196 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 182 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.345098 .65098 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (your_database=>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 166 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\\dt dataviz_library.*) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 162 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 146 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (List of relations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 130 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Schema | Name | Type | Owner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 114 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-----------------+--------+-------+-----------------) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (dataviz_library | author | table | your_username) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (dataviz_library | book | table | your_username) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (dataviz_library | branch | table | your_username) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (dataviz_library | fine | table | your_username) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (dataviz_library | loan | table | your_username) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (dataviz_library | member | table | your_username) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\(6 rows\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 244.8292 m 1.8944 245.5528 2.8944 246 4 246 c 468 246 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 242 l 0 243.1056 .4472 244.1056 1.1708 244.8292 c
+S
+n 468 0 m 468 246 l S
+Q
+Q
+q
+1 0 0 1 60 478 cm
+Q
+q
+1 0 0 1 60 450 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (\\dt lists all tables in the specified schema. All 6 tables appear under the dataviz_library schema confirming successful) Tj T* (creation.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 15 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+57 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+58 0 obj
+<<
+/Contents 59 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 60 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+59 0 obj
+<<
+/Length 4963
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 406 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 326 l 4 326 l 1.7888 326 0 324.2112 0 322 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 326 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 294 468 -282 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 297 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 8) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf 1 1 1 rg (Insert Sample Data: Authors & Branches) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 276 468 -276 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 262 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Insert authors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 246 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.author \(first_name, last_name, nationality\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 230 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Gabriel', 'Garcia Marquez', 'Colombian'\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 214 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 198 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.author \(first_name, last_name, nationality\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 182 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Toni', 'Morrison', 'American'\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 166 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 150 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.author \(first_name, last_name, nationality\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 134 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Chimamanda', 'Adichie', 'Nigerian'\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 118 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 114 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Insert branches) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.branch \(name, location\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Central Branch', 'Bridgetown, St. Michael'\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.branch \(name, location\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('North Branch', 'Speightstown, St. Peter'\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 324.8292 m 1.8944 325.5528 2.8944 326 4 326 c 468 326 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 322 l 0 323.1056 .4472 324.1056 1.1708 324.8292 c
+S
+n 468 0 m 468 326 l S
+Q
+Q
+q
+1 0 0 1 60 398 cm
+Q
+q
+1 0 0 1 60 370 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (INSERT 0 1 confirms one row was inserted successfully. Authors must be inserted before books because book) Tj T* (references author\(id\) as a foreign key.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 351 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 16 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+60 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+61 0 obj
+<<
+/Contents 62 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 63 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 5763
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 358 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 374 l 4 374 l 1.7888 374 0 372.2112 0 370 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 374 468 -32 re f*
+.05098 .066667 .090196 rg
+n 0 342 468 -330 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 345 cm
+q
+.086275 .105882 .133333 rg
+n 0 26 468 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 7 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 1.693 0 Td (STEP 9) Tj T* -1.693 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6 cm
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf 1 1 1 rg (Insert Sample Data: Books & Members) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 7 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 324 468 -324 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 310 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Insert books \(author_id references author table\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 294 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.book \(title, genre, published_year, author_id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 278 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('One Hundred Years of Solitude', 'Fiction', 1967, 1\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 262 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 246 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.book \(title, genre, published_year, author_id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 230 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Beloved', 'Historical Fiction', 1987, 2\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 214 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 198 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.book \(title, genre, published_year, author_id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 182 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Americanah', 'Contemporary Fiction', 2013, 3\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 166 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 162 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 146 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Insert members \(branch_id references branch table\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 130 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.member \(first_name, last_name, email, join_date, branch_id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 114 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Noreen', 'Lewis', 'noreen@email.com', '2024-01-15', 1\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.member \(first_name, last_name, email, join_date, branch_id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Sarah', 'Brown', 'sarah@email.com', '2024-02-20', 2\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.member \(first_name, last_name, email, join_date, branch_id\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \('Marcus', 'Hall', 'marcus@email.com', '2024-03-10', 1\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 372.8292 m 1.8944 373.5528 2.8944 374 4 374 c 468 374 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 370 l 0 371.1056 .4472 372.1056 1.1708 372.8292 c
+S
+n 468 0 m 468 374 l S
+Q
+Q
+q
+1 0 0 1 60 350 cm
+Q
+q
+1 0 0 1 60 322 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (author_id=1 links to Gabriel Garcia Marquez, author_id=2 to Toni Morrison and author_id=3 to Chimamanda Adichie.) Tj T* (branch_id=1 is Central Branch and branch_id=2 is North Branch.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 17 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+63 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+64 0 obj
+<<
+/Contents 65 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 66 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+65 0 obj
+<<
+/Length 8537
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 396 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 336 l 4 336 l 1.7888 336 0 334.2112 0 332 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 336 468 -42 re f*
+.05098 .066667 .090196 rg
+n 0 294 468 -282 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 297 cm
+q
+.086275 .105882 .133333 rg
+n 0 36 468 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 15 Tm /F2 9 Tf 12 TL 5.446 0 Td (STEP) Tj T* 6.75 0 Td (10) Tj T* -12.196 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 11 cm
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf 1 1 1 rg (Insert Sample Data: Loans & Fines) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 12 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 276 468 -276 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 262 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Insert loans) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 246 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.loan \(member_id, book_id, loan_date, return_date, status\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 230 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \(1, 1, '2024-03-01', '2024-03-15', 'returned'\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 214 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 198 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.loan \(member_id, book_id, loan_date, return_date, status\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 182 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \(2, 2, '2024-03-05', NULL, 'active'\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 166 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 150 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.loan \(member_id, book_id, loan_date, return_date, status\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 134 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \(3, 3, '2024-03-08', NULL, 'active'\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 118 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 114 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Insert fines \(loan_id references loan table\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.fine \(loan_id, amount, paid\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \(1, 2.50, TRUE\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT INTO dataviz_library.fine \(loan_id, amount, paid\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (VALUES \(2, 5.00, FALSE\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (INSERT 0 1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 334.8292 m 1.8944 335.5528 2.8944 336 4 336 c 468 336 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 332 l 0 333.1056 .4472 334.1056 1.1708 334.8292 c
+S
+n 468 0 m 468 336 l S
+Q
+Q
+q
+1 0 0 1 60 388 cm
+Q
+q
+1 0 0 1 60 360 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (NULL in return_date means the book has not been returned yet. Noreen Lewis \(loan_id=1\) paid her fine of $2.50 \227) Tj T* (TRUE. Sarah Brown \(loan_id=2\) has an outstanding fine of $5.00 \227 FALSE.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 341 cm
+Q
+q
+1 0 0 1 72 117 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 224 l 4 224 l 1.7888 224 0 222.2112 0 220 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 224 468 -42 re f*
+.05098 .066667 .090196 rg
+n 0 182 468 -170 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 185 cm
+q
+.086275 .105882 .133333 rg
+n 0 36 468 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 15 Tm /F2 9 Tf 12 TL 5.446 0 Td (STEP) Tj T* 6.75 0 Td (11) Tj T* -12.196 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 11 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Query 1 \227 Books with Authors \(JOIN\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 12 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 164 468 -164 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 150 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.345098 .65098 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (your_database=>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 134 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (SELECT book.title, author.first_name, author.last_name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 118 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (FROM dataviz_library.book) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 102 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (JOIN dataviz_library.author ON book.author_id = author.id;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 98 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (title | first_name | last_name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-------------------------------+------------+----------------) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (One Hundred Years of Solitude | Gabriel | Garcia Marquez) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Beloved | Toni | Morrison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Americanah | Chimamanda | Adichie) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\(3 rows\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 222.8292 m 1.8944 223.5528 2.8944 224 4 224 c 468 224 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 220 l 0 221.1056 .4472 222.1056 1.1708 222.8292 c
+S
+n 468 0 m 468 224 l S
+Q
+Q
+q
+1 0 0 1 60 109 cm
+Q
+q
+1 0 0 1 60 81 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (JOIN combines rows from book and author tables where book.author_id matches author.id \227 showing each book) Tj T* (alongside its author's full name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 62 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 18 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+66 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+67 0 obj
+<<
+/Contents 68 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 69 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 3916
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 492 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 240 l 4 240 l 1.7888 240 0 238.2112 0 236 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 240 468 -42 re f*
+.05098 .066667 .090196 rg
+n 0 198 468 -186 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 201 cm
+q
+.086275 .105882 .133333 rg
+n 0 36 468 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 15 Tm /F2 9 Tf 12 TL 5.446 0 Td (STEP) Tj T* 6.75 0 Td (12) Tj T* -12.196 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 11 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Query 2 \227 Active Loans \(Multi-table JOIN + WHERE\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 12 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 180 468 -180 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 166 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.345098 .65098 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (your_database=>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 150 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (SELECT member.first_name, member.last_name, book.title, loan.loan_date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 134 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (FROM dataviz_library.loan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 118 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (JOIN dataviz_library.member ON loan.member_id = member.id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 102 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (JOIN dataviz_library.book ON loan.book_id = book.id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 86 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (WHERE loan.status = 'active';) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (first_name | last_name | title | loan_date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (------------+-----------+------------+------------) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Sarah | Brown | Beloved | 2024-03-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Marcus | Hall | Americanah | 2024-03-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\(2 rows\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 238.8292 m 1.8944 239.5528 2.8944 240 4 240 c 468 240 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 236 l 0 237.1056 .4472 238.1056 1.1708 238.8292 c
+S
+n 468 0 m 468 240 l S
+Q
+Q
+q
+1 0 0 1 60 484 cm
+Q
+q
+1 0 0 1 60 456 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (Three tables are joined simultaneously. WHERE loan.status = 'active' filters to only show books not yet returned.) Tj T* (Noreen's loan does not appear because hers was 'returned'.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 19 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+69 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+70 0 obj
+<<
+/Contents 71 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 72 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+71 0 obj
+<<
+/Length 7546
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 508 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 224 l 4 224 l 1.7888 224 0 222.2112 0 220 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 224 468 -42 re f*
+.05098 .066667 .090196 rg
+n 0 182 468 -170 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 185 cm
+q
+.086275 .105882 .133333 rg
+n 0 36 468 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 15 Tm /F2 9 Tf 12 TL 5.446 0 Td (STEP) Tj T* 6.75 0 Td (13) Tj T* -12.196 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 11 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Query 3 \227 Unpaid Fines \(BOOLEAN Filter\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 12 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 164 468 -164 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 150 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.345098 .65098 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (your_database=>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 134 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (SELECT member.first_name, member.last_name, fine.amount) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 118 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (FROM dataviz_library.fine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 102 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (JOIN dataviz_library.loan ON fine.loan_id = loan.id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 86 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (JOIN dataviz_library.member ON loan.member_id = member.id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 70 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (WHERE fine.paid = FALSE;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (first_name | last_name | amount) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (------------+-----------+--------) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Sarah | Brown | 5.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\(1 row\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 222.8292 m 1.8944 223.5528 2.8944 224 4 224 c 468 224 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 220 l 0 221.1056 .4472 222.1056 1.1708 222.8292 c
+S
+n 468 0 m 468 224 l S
+Q
+Q
+q
+1 0 0 1 60 500 cm
+Q
+q
+1 0 0 1 60 472 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (WHERE fine.paid = FALSE filters to only outstanding fines. Only Sarah Brown appears with $5.00 outstanding.) Tj T* (Noreen Lewis does not appear because her fine of $2.50 was already paid \(TRUE\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 453 cm
+Q
+q
+1 0 0 1 72 197 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 256 l 4 256 l 1.7888 256 0 254.2112 0 252 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 256 468 -42 re f*
+.05098 .066667 .090196 rg
+n 0 214 468 -202 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 217 cm
+q
+.086275 .105882 .133333 rg
+n 0 36 468 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 15 Tm /F2 9 Tf 12 TL 5.446 0 Td (STEP) Tj T* 6.75 0 Td (14) Tj T* -12.196 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 11 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Query 4 \227 Total Fines Per Member \(GROUP BY + SUM\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 12 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 196 468 -196 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 182 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.345098 .65098 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (your_database=>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 166 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (SELECT member.first_name, member.last_name,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 150 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (SUM\(fine.amount\) AS total_fines) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 134 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (FROM dataviz_library.fine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 118 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (JOIN dataviz_library.loan ON fine.loan_id = loan.id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 102 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (JOIN dataviz_library.member ON loan.member_id = member.id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 86 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.47451 .752941 1 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (GROUP BY member.first_name, member.last_name;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 82 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 66 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (first_name | last_name | total_fines) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (------------+-----------+-------------) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Sarah | Brown | 5.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Noreen | Lewis | 2.50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\(2 rows\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 254.8292 m 1.8944 255.5528 2.8944 256 4 256 c 468 256 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 252 l 0 253.1056 .4472 254.1056 1.1708 254.8292 c
+S
+n 468 0 m 468 256 l S
+Q
+Q
+q
+1 0 0 1 60 189 cm
+Q
+q
+1 0 0 1 60 161 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (SUM\(fine.amount\) calculates the total fines per member. GROUP BY groups the results by member name. Both) Tj T* (members appear here unlike Query 3 because this shows ALL fines regardless of paid status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 142 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 20 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+72 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+73 0 obj
+<<
+/Contents 74 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 75 0 R
+/F2 43 0 R
+/F3 44 0 R
+/F4 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+74 0 obj
+<<
+/Length 4375
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 72 500 cm
+q
+%begin table rect clip
+n 0 0 m 468 0 l 468 232 l 4 232 l 1.7888 232 0 230.2112 0 228 c 0 0 l h W* n
+%end table rect clip
+.086275 .105882 .133333 rg
+n 0 232 468 -42 re f*
+.05098 .066667 .090196 rg
+n 0 190 468 -178 re f*
+.05098 .066667 .090196 rg
+n 0 12 468 -12 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 193 cm
+q
+.086275 .105882 .133333 rg
+n 0 36 468 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6 cm
+q
+.219608 .545098 .992157 rg
+BT 1 0 0 1 0 15 Tm /F2 9 Tf 12 TL 5.446 0 Td (STEP) Tj T* 6.75 0 Td (15) Tj T* -12.196 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 11 cm
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf 1 1 1 rg (Data Insights & Business Story) Tj T* ET
+Q
+Q
+q
+1 0 0 1 382.4 12 cm
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL 15.2 0 Td (psql terminal) Tj T* -15.2 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.219608 .545098 .992157 RG
+1 w
+n 0 0 m 468 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+.05098 .066667 .090196 rg
+n 0 172 468 -172 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 158 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.545098 .580392 .619608 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (-- Summary of findings from the database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 154 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 138 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (MEMBER FINE SUMMARY:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 122 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Noreen Lewis \227 $2.50 fine \227 PAID \(returned book on time\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 106 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Sarah Brown \227 $5.00 fine \227 UNPAID \(book still active\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 102 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 86 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (ACTIVE LOANS:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 70 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Sarah Brown \227 Beloved \(borrowed 2024-03-05, not returned\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 54 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Marcus Hall \227 Americanah \(borrowed 2024-03-08, not returned\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 50 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 0 re f*
+Q
+Q
+q
+1 0 0 1 10 34 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (RETURNED LOANS:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 18 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (Noreen Lewis \227 One Hundred Years of Solitude) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 2 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 448 12 re f*
+Q
+q
+.247059 .72549 .313725 rg
+BT 1 0 0 1 0 4 Tm /F3 8 Tf 12 TL (\(borrowed 2024-03-01, returned 2024-03-15\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.05098 .066667 .090196 rg
+n 0 0 456 0 re f*
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+Q
+Q
+q
+1 J
+1 j
+.176471 .415686 .309804 RG
+1 w
+n 1.1708 230.8292 m 1.8944 231.5528 2.8944 232 4 232 c 468 232 l
+S
+n 0 0 m 468 0 l S
+n 0 0 m 0 228 l 0 229.1056 .4472 230.1056 1.1708 230.8292 c
+S
+n 468 0 m 468 232 l S
+Q
+Q
+q
+1 0 0 1 60 492 cm
+Q
+q
+1 0 0 1 60 450 cm
+q
+.176471 .176471 .176471 rg
+BT 1 0 0 1 0 32.5 Tm /F1 9.5 Tf 14 TL (This is the 'so-what' \227 the database tells a real business story: two members have active loans, one member has an) Tj T* (outstanding fine of $5.00 and one member has already paid their fine. This is exactly the kind of actionable insight a) Tj T* (senior analyst presents to stakeholders.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 435 cm
+Q
+q
+1 0 0 1 60 433.5 cm
+q
+.5 w
+1 J
+.584314 .835294 .698039 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 428.5 cm
+Q
+q
+1 0 0 1 60 416.5 cm
+q
+.176471 .415686 .309804 rg
+BT 1 0 0 1 0 4.5 Tm /F4 7.5 Tf 12 TL 127.9762 0 Td (DataViz Explorer\256 | Noreen Lewis | PostgreSQL Portfolio | March 2026) Tj T* -127.9762 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.176471 0.415686 0.309804 rg
+BT
+1 0 0 1 291.328 28.8 Tm
+(\227 21 \227) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+75 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 76
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000254 00000 n 
+0000000303 00000 n 
+0000000568 00000 n 
+0000002184 00000 n 
+0000002291 00000 n 
+0000002398 00000 n 
+0000002510 00000 n 
+0000002615 00000 n 
+0000002731 00000 n 
+0000002809 00000 n 
+0000003077 00000 n 
+0000008730 00000 n 
+0000008838 00000 n 
+0000009106 00000 n 
+0000013366 00000 n 
+0000013474 00000 n 
+0000013742 00000 n 
+0000023059 00000 n 
+0000023167 00000 n 
+0000023435 00000 n 
+0000029445 00000 n 
+0000029553 00000 n 
+0000029821 00000 n 
+0000034998 00000 n 
+0000035106 00000 n 
+0000035374 00000 n 
+0000037880 00000 n 
+0000037988 00000 n 
+0000038256 00000 n 
+0000043682 00000 n 
+0000043790 00000 n 
+0000044058 00000 n 
+0000046285 00000 n 
+0000046393 00000 n 
+0000046661 00000 n 
+0000050956 00000 n 
+0000051064 00000 n 
+0000051324 00000 n 
+0000052182 00000 n 
+0000052290 00000 n 
+0000052398 00000 n 
+0000052511 00000 n 
+0000052617 00000 n 
+0000052733 00000 n 
+0000052993 00000 n 
+0000061895 00000 n 
+0000062003 00000 n 
+0000062263 00000 n 
+0000065790 00000 n 
+0000065898 00000 n 
+0000066158 00000 n 
+0000074815 00000 n 
+0000074923 00000 n 
+0000075183 00000 n 
+0000079243 00000 n 
+0000079351 00000 n 
+0000079611 00000 n 
+0000084627 00000 n 
+0000084735 00000 n 
+0000084995 00000 n 
+0000090811 00000 n 
+0000090919 00000 n 
+0000091179 00000 n 
+0000099769 00000 n 
+0000099877 00000 n 
+0000100137 00000 n 
+0000104106 00000 n 
+0000104214 00000 n 
+0000104474 00000 n 
+0000112073 00000 n 
+0000112181 00000 n 
+0000112441 00000 n 
+0000116869 00000 n 
+trailer
+<<
+/Size 76
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+116977
+%%EOF
