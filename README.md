@@ -79,7 +79,8 @@ Sample Queries
 - All unpaid fines with member details
 - Total fines per member
 
-Portfolio Documentation
+Portfolio Documentation:
+
 See `docs/dataviz_library_portfolio.pdf` for full documentation.
 
 Connect
