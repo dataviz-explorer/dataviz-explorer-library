@@ -3,16 +3,16 @@ dataviz-explorer-library
 A PostgreSQL relational database for a Library Management System
 DataViz Explorer Library Database
 
-Project Overview
+Project Overview:
 A relational database management system for a library built using PostgreSQL.
 Designed and documented by Noreen Lewis | DataViz Explorer
 
-Technologies Used
+Technologies Used:
 - PostgreSQL 16
 - psql (Command Line Interface)
 - SQL (DDL, DML, DQL)
 
-Database Schema
+Database Schema:
 - Schema: dataviz_library
 - Tables: author, book, branch, member, loan, fine
 
