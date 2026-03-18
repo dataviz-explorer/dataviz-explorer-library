@@ -81,7 +81,7 @@ Sample Queries
 
 Portfolio Documentation:
 
-See `docs/dataviz_library_portfolio.pdf` for full documentation.
+See `dataviz_library_portfolio.pdf` for full documentation.
 
 Connect
 - LinkedIn: https://linkedin.com/in/noreen-lewis-dve1
