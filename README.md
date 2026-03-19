@@ -80,6 +80,9 @@ Sample Queries
 Portfolio Documentation
 See [dataviz_library_portfolio.pdf](dataviz_library_portfolio.pdf) for full documentation.
 
-## Connect
+Connect
+- 🌐Website: [DataViz Explorer](https://datavizexplorer.org)
 - 🔗 LinkedIn: [Noreen Lewis](https://linkedin.com/in/noreen-lewis-dve1)
-- 🌐 Website: [DataViz Explorer](https://datavizexplorer.org)
+- ❤️ Sponsor: Support This Project
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/datavizexplorer)
+
