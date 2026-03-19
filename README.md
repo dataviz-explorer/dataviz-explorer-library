@@ -83,5 +83,5 @@ See [dataviz_library_portfolio.pdf](dataviz_library_portfolio.pdf) for full docu
 Connect
 - ❤️ Sponsor: Support This Project
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/datavizexplorer)
-- 🌐Website: [DataViz Explorer](https://datavizexplorer.org)
+- 🌐 Website: [DataViz Explorer](https://datavizexplorer.org)
 - 🔗 LinkedIn: [Noreen Lewis](https://linkedin.com/in/noreen-lewis-dve1)
