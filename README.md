@@ -35,8 +35,8 @@ Relationships
 | member | Many-to-One | branch |
 | loan | One-to-Many | fine |
 
-Folder Structure
-
+## Folder Structure
+```
 dataviz-explorer-library/
 ├── schema/
 │   └── create_schema.sql
@@ -57,6 +57,8 @@ dataviz-explorer-library/
 ├── dataviz_library_portfolio.pdf
 ├── LICENSE
 └── README.md
+```
+````
 
 How to Run
 1. Connect to PostgreSQL
