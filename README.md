@@ -155,7 +155,7 @@ dataviz-explorer-library/
 └── README.md
 ```
 
-  🤝 Connect
+ ## 🤝 Connect
 - ❤️ Sponsor: [Support This Project](https://ko-fi.com/datavizexplorer)
 - 🌐 Website: [DataViz Explorer](https://datavizexplorer.org/dir)
 - 🔗 LinkedIn: [Noreen Lewis](https://linkedin.com/in/noreen-lewis-dve1)
