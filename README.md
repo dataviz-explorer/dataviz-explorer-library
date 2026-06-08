@@ -1,7 +1,7 @@
-# DataViz Explorer Library Database
+# DataViz Explorer® Barbados Library Database
 
 ## Project Overview
-A relational database management system for both a **Physical Library** and a **Digital Content Library** built using PostgreSQL. Designed and documented by **Noreen Lewis | DataViz Explorer® **Barbados.****
+A relational database management system for both a **Physical Library** and a **Digital Content Library** built using PostgreSQL. Designed and documented by **Noreen Lewis | DataViz Explorer® **Barbados.**** |Datavizexplorer.org/dir|
 
 ---
 
